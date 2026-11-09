@@ -65,6 +65,11 @@ Mỗi gói asset đặt trong thư mục riêng: `<loại>/<tác-giả>_<tên-g�
 - OpenGameArt: bộ icon RPG CC0 (rune, gem, ingot, currency) → làm đan dược, linh thạch
 - Kenney: *Fantasy UI Borders*, *Game Icons*
 
+**Idle skilling RPG (kiểu Rocky Idle / Melvor Idle)**
+- Xem preset chi tiết: [`presets/idle-rpg.md`](presets/idle-rpg.md)
+- Item: 7Soul 496 RPG icons (CC0) · Quái: 0x72 DungeonTileset II (CC0)
+- Icon kỹ năng: game-icons.net (CC BY 3.0 — phải ghi công) · UI: Kenney (CC0)
+
 ## Quy trình thêm asset
 
 1. Kiểm tra giấy phép trên trang gốc (không tin vào mô tả bên thứ ba).
